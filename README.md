@@ -10,7 +10,7 @@
 - [x] Shark Rig + Weight Paint
 - [x] Blue Tang IK
 - [ ] Box Jellyfish IK
-- [ ] Blue Tang New Animation
+- [x] Blue Tang New Animation
 - [ ] Box Jellyfish New Animation
 - [ ] (Optional) Shark IK
 - [ ] (Optional) Shark New Animation
