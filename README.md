@@ -5,7 +5,7 @@
 - [x] Blue Tang Model + Texture
 - [x] Box Jellyfish Model + Texture
 - [x] Shark + Texture
-- [ ] Blue Tang Rig + Weight Paint
+- [x] Blue Tang Rig + Weight Paint
 - [x] Box Jellyfish Rig + Weight Paint
 - [x] Shark Rig + Weight Paint
 - [x] Blue Tang IK
@@ -21,6 +21,8 @@
 - [x] Oxygen Meter
 - [x] Pressure Meter
 - [x] Top Right Dialog
+- [ ] Game Start Button
+- [ ] Homescreen with pixel art sub
 - [ ] Main Pop-up with Blue Tang pixel art
 - [ ] Main Pop-up with Box Jellyfish pixel art
 - [ ] Main Pop up with Shark pixel art
