@@ -5,9 +5,9 @@
 - [x] Blue Tang Model + Texture
 - [x] Box Jellyfish Model + Texture
 - [x] Shark + Texture
-- [x] Blue Tang Rig
-- [x] Box Jellyfish Rig
-- [x] Shark Rig
+- [ ] Blue Tang Rig + Weight Paint
+- [x] Box Jellyfish Rig + Weight Paint
+- [x] Shark Rig + Weight Paint
 - [x] Blue Tang IK
 - [ ] Box Jellyfish IK
 - [ ] Blue Tang New Animation
@@ -18,7 +18,7 @@
 ### Jasper's UI To-Do
 - [x] Checked Checkbox
 - [x] Empty Checkbox
-- [x] Oxygen meter
+- [x] Oxygen Meter
 - [x] Pressure Meter
 - [x] Top Right Dialog
 - [ ] Main Pop-up with Blue Tang pixel art
