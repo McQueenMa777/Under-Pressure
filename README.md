@@ -9,9 +9,9 @@
 - [x] Box Jellyfish Rig + Weight Paint
 - [x] Shark Rig + Weight Paint
 - [x] Blue Tang IK
-- [ ] Box Jellyfish IK
+- [x] Box Jellyfish IK
 - [x] Blue Tang New Animation
-- [ ] Box Jellyfish New Animation
+- [x] Box Jellyfish New Animation
 - [ ] (Optional) Shark IK
 - [ ] (Optional) Shark New Animation
 
