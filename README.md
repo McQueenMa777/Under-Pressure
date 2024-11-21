@@ -18,8 +18,8 @@
 ### Jasper's UI To-Do
 - [x] Checked Checkbox
 - [x] Empty Checkbox
-- [x] Oxygen Meter
-- [x] Pressure Meter
+- [ ] Oxygen Meter
+- [ ] Pressure Meter
 - [x] Top Right Dialog
 - [ ] Game Start Button
 - [ ] Homescreen with pixel art sub
