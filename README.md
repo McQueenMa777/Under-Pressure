@@ -23,7 +23,11 @@
 - [x] Meter Colours
 - [x] Top Right Dialog
 - [x] Game Start Button
-- [ ] Homescreen with pixel art sub
-- [ ] Main Pop-up with Blue Tang pixel art
-- [ ] Main Pop-up with Box Jellyfish pixel art
-- [ ] Main Pop up with Shark pixel art
+- [ ] Pixel art sub
+- [x] Blue Tang pixel art icon
+- [x] Box Jellyfish pixel art icon
+- [x] Shark pixel art icon
+- [x] Clownfish pixel art icon
+- [ ] Kraken pixel art icon
+
+
