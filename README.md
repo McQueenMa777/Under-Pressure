@@ -22,7 +22,7 @@
 - [x] Pressure Meter
 - [x] Meter Colours
 - [x] Top Right Dialog
-- [ ] Game Start Button
+- [x] Game Start Button
 - [ ] Homescreen with pixel art sub
 - [ ] Main Pop-up with Blue Tang pixel art
 - [ ] Main Pop-up with Box Jellyfish pixel art
