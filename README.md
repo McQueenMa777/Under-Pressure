@@ -20,7 +20,7 @@
 - [x] Empty Checkbox
 - [x] Oxygen Meter
 - [x] Pressure Meter
-- [ ] Meter Colours
+- [x] Meter Colours
 - [x] Top Right Dialog
 - [ ] Game Start Button
 - [ ] Homescreen with pixel art sub
