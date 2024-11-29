@@ -23,11 +23,11 @@
 - [x] Meter Colours
 - [x] Top Right Dialog
 - [x] Game Start Button
-- [ ] Pixel art sub
+- [x] Pixel art sub
 - [x] Blue Tang pixel art icon
 - [x] Box Jellyfish pixel art icon
 - [x] Shark pixel art icon
 - [x] Clownfish pixel art icon
-- [ ] Kraken pixel art icon
+- [x] Kraken pixel art icon
 
 
