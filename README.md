@@ -36,6 +36,6 @@
 - [x] Shark pixel art icon
 - [x] Clownfish pixel art icon
 - [x] Kraken pixel art icon
-- [x] Red Arrow
+- [x] Visibility Arrow
 - [x] Pop up Dialogue
 
