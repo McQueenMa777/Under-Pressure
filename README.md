@@ -3,7 +3,7 @@
 
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
-- [x] Box Jellyfish Model + Texture
+
 - [x] Shark + Texture
 - [x] Blue Tang Rig + Weight Paint
 - [x] Box Jellyfish Rig + Weight Paint
@@ -12,6 +12,10 @@
 - [x] Box Jellyfish IK
 - [x] Blue Tang New Animation
 - [x] Box Jellyfish New Animation
+- [ ] Kraken Animation
+- [ ] Viper Fish Model + Texture
+- [ ] Viper Fish IK
+- [ ] Viper Fish Animation
 - [ ] (Optional) Shark IK
 - [ ] (Optional) Shark New Animation
 
