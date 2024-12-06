@@ -38,4 +38,5 @@
 - [x] Kraken pixel art icon
 - [x] Visibility Arrow
 - [x] Pop up Dialogue
+- [x] Shaded Alt Escape
 
