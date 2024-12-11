@@ -2,15 +2,16 @@
 
 #### ALL we left to do
 Models:
-- [] Kraken
-- [] Angler Fish
-- [] Viper Fish
-- [] Hell Bass
+- [ ] Kraken
+- [ ] Angler Fish
+- [ ] Viper Fish
+- [ ] Hell Bass
+
 UI:
-- [] Homepage Background
-- [] Angler Fish Icon
-- [] Viper Fish Icon
-- [] Hell Bass Icon
+- [ ] Homepage Background
+- [ ] Angler Fish Icon
+- [ ] Viper Fish Icon
+- [ ] Hell Bass Icon
 
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
