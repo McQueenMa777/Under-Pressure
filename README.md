@@ -12,6 +12,7 @@ UI:
 - [ ] Angler Fish Icon
 - [ ] Viper Fish Icon
 - [ ] Hell Bass Icon
+- [ ] Blend Button
 
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
