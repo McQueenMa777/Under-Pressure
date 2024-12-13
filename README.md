@@ -3,7 +3,7 @@
 #### ALL we left to do
 Models:
 - [ ] Kraken
-- [ ] Angler Fish
+- [x] Angler Fish
 - [ ] Viper Fish
 - [ ] Hell Bass
 
@@ -12,7 +12,7 @@ UI:
 - [ ] Angler Fish Icon
 - [ ] Viper Fish Icon
 - [ ] Hell Bass Icon
-- [ ] Blend Button
+- [x] Blend Button
 
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
