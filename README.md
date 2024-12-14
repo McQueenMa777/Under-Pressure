@@ -2,10 +2,10 @@
 
 #### ALL we left to do
 Models:
-- [ ] Kraken
+- [x] Kraken
 - [x] Angler Fish
 - [ ] Viper Fish
-- [ ] Hell Bass
+- [x] Hell Bass
 
 UI:
 - [ ] Homepage Background
@@ -28,7 +28,7 @@ UI:
 - [x] Shark Animation
 - [ ] (Optional) Shark IK
 - [ ] (Optional) Shark New Animation
-- [ ] Kraken Animation
+- [x] Kraken Animation
 - [ ] Viper Fish Model + Texture
 - [ ] Viper Fish Rig + Weight Paint
 - [ ] Viper Fish IK
