@@ -8,11 +8,12 @@ Models:
 - [x] Hell Bass
 
 UI:
-- [ ] Homepage Background
+- [x] Homepage Background
 - [ ] Angler Fish Icon
 - [ ] Viper Fish Icon
 - [ ] Hell Bass Icon
 - [x] Blend Button
+- [x] Sub2
 
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
