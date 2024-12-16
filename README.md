@@ -15,10 +15,26 @@ UI:
 - [x] Blend Button
 - [x] Sub2
 
+Portfolio
+- [ ] UE Build
+- [ ] Video
+- [ ] Documentation (as following components)
+- [ ] Test Plan -- McQueen
+- [ ] Game Plan -- McQueen
+- [x] Pitch Slides -- All
+- [ ] Game Design Documentation -- Dylan
+- [ ] Art Design Documentation -- Jasper
+- [ ] Technical Design Documentation -- McQueen
+- [ ] Post Mortem (as following components)
+- [ ] What went well & What went wrong (design) -- Dylan
+- [ ] What went well & What went wrong (art) -- Jasper
+- [ ] What went well & What went wrong (technique) -- McQueen
+- [ ] Individual Self-reflections -- All
+      
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
 - [x] Blue Tang Rig + Weight Paint
-- [x] Blue Tang IK
+- [x] Blue Tang IKgs
 - [x] Blue Tang New Animation
 - [x] Box Jellyfish Model + Texture
 - [x] Box Jellyfish Rig + Weight Paint
