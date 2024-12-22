@@ -4,7 +4,7 @@
 Models:
 - [x] Kraken
 - [x] Angler Fish
-- [ ] Viper Fish
+- [x] Viper Fish
 - [x] Hell Bass
 
 UI:
