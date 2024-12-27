@@ -9,9 +9,9 @@ Models:
 
 UI:
 - [x] Homepage Background
-- [ ] Angler Fish Icon
+- [x] Angler Fish Icon
 - [ ] Viper Fish Icon
-- [ ] Hell Bass Icon
+- [x] Hell Bass Icon
 - [x] Blend Button
 - [x] Sub2
 
