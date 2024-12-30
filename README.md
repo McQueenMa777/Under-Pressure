@@ -19,8 +19,8 @@ Portfolio
 - [ ] UE Build
 - [ ] Video
 - [ ] Documentation (as following components)
-- [ ] Test Plan -- McQueen
-- [ ] Game Plan -- McQueen
+- [x] Test Plan -- McQueen
+- [x] Game Plan -- McQueen
 - [x] Pitch Slides -- All
 - [ ] Game Design Documentation -- Dylan
 - [ ] Art Design Documentation -- Jasper
