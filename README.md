@@ -23,11 +23,11 @@ Portfolio
 - [x] Game Plan -- McQueen
 - [x] Pitch Slides -- All
 - [ ] Game Design Documentation -- Dylan
-- [ ] Art Design Documentation -- Jasper
+- [x] Art Design Documentation -- Jasper
 - [ ] Technical Design Documentation -- McQueen
 - [ ] Post Mortem (as following components)
 - [ ] What went well & What went wrong (design) -- Dylan
-- [ ] What went well & What went wrong (art) -- Jasper
+- [x] What went well & What went wrong (art) -- Jasper
 - [ ] What went well & What went wrong (technique) -- McQueen
 - [ ] Individual Self-reflections -- All
       
@@ -46,10 +46,10 @@ Portfolio
 - [ ] (Optional) Shark IK
 - [ ] (Optional) Shark New Animation
 - [x] Kraken Animation
-- [ ] Viper Fish Model + Texture
-- [ ] Viper Fish Rig + Weight Paint
-- [ ] Viper Fish IK
-- [ ] Viper Fish Animation
+- [x] Viper Fish Model + Texture
+- [x] Viper Fish Rig + Weight Paint
+- [x] Viper Fish IK
+- [x] Viper Fish Animation
 
 
 ### Jasper's UI To-Do
