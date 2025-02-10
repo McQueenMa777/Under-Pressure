@@ -16,20 +16,20 @@ UI:
 - [x] Sub2
 
 Portfolio
-- [ ] UE Build
-- [ ] Video
-- [ ] Documentation (as following components)
+- [x] UE Build
+- [x] Video
+- [x] Documentation (as following components)
 - [x] Test Plan -- McQueen
 - [x] Game Plan -- McQueen
 - [x] Pitch Slides -- All
-- [ ] Game Design Documentation -- Dylan
+- [x] Game Design Documentation -- Dylan
 - [x] Art Design Documentation -- Jasper
-- [ ] Technical Design Documentation -- McQueen
-- [ ] Post Mortem (as following components)
-- [ ] What went well & What went wrong (design) -- Dylan
+- [x] Technical Design Documentation -- McQueen
+- [x] Post Mortem (as following components)
+- [x] What went well & What went wrong (design) -- Dylan
 - [x] What went well & What went wrong (art) -- Jasper
-- [ ] What went well & What went wrong (technique) -- McQueen
-- [ ] Individual Self-reflections -- All
+- [x] What went well & What went wrong (technique) -- McQueen
+- [x] Individual Self-reflections -- All
       
 ### Jasper's Modeling To-Do
 - [x] Blue Tang Model + Texture
