@@ -2,7 +2,7 @@
 [Link to Itch](https://mcqueenma777.itch.io/under-pressure)
 
 ### Demo
-[![YouTube Video](https://img.youtube.com/vi/-kXjIjOyn6w/0.jpg)]([https://www.youtube.com/watch?v=-kXjIjOyn6w])
+[![YouTube Video](https://img.youtube.com/vi/-kXjIjOyn6w/0.jpg)]([https://youtu.be/-kXjIjOyn6w])
 
 ### Description
 You are a submarine pilot dispatched to execute a secret mission. At first, you think everything is just as usual as a normal mission. However, as you get deeper and deeper, you notice that something goes wrong…
