@@ -3,7 +3,7 @@
 
 
 
-### Planning
+### To-Do
 Models:
 - [x] Kraken
 - [x] Angler Fish
